@@ -1,0 +1,26 @@
+{
+  "name": "node-express-handlebars",
+  "version": "1.0.0",
+  "description": "<h5>Rutgers Coding Bootcamp</h5> <h1 align=\"center\">Node Express Handlebars</h1>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylangough/Node-Express-Handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylangough/Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/dylangough/Node-Express-Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars-helper-css": "^0.1.0",
+    "mysql": "^2.18.1"
+  }
+}
