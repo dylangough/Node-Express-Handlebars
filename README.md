@@ -12,13 +12,12 @@ This application uses Express, Handlebars, MySQL, and Node to create a burger lo
 
 <h2>Components</h2>
 
-JavaScript | Node.JS | Express | Inquirer | Handlebars | MySQL
+JavaScript | Node.JS | Express | Handlebars | MySQL
 
 <br>
 
 <h2>Install Process</h2>
 
-* npm install inquirer
 * npm install express
 * npm install mysql
 * npm install handlebars
