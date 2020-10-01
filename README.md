@@ -6,9 +6,7 @@
 <h2>What is this?</h2>
 This application uses Express, Handlebars, MySQL, and Node to create a burger logger. It creates new burgers to be eaten and sent into a specific pile. The user submits a burger using a button. All of the burgers created are stored in a MySQL database. 
 
-
 <br>
-
 
 <h2>Components</h2>
 
